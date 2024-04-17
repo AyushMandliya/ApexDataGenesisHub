@@ -1,6 +1,6 @@
 //////////////////////////////////////
 /*
-Author :               Soumya A Sheelavant
+Author :               AYUSH MANDLIYA
 Project Description :  Generalised Data Structures Library
 */
 //////////////////////////////////////////////////////
