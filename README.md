@@ -47,3 +47,41 @@ This project provides a generic menu-based interface for various data structures
 1. **Compilation:** Compile the program using any C++ compiler.
    ```bash
    g++ main.cpp -o data_structures
+2.**Execution:** Run the compiled executable.
+  ./data_structures
+3. **Data Structure Selection:** Choose a data structure from the menu by entering the corresponding number.
+4. **Operations:** Follow the prompts to perform various operations on the selected data structure.
+
+---
+
+🛠️ Supported Data Structures
+Singly Linear Linked List
+Singly Circular Linked List
+Doubly Linear Linked List
+Doubly Circular Linked List
+Stack
+Queue
+Binary Search Tree
+
+---
+
+## 📄 Code Documentation
+For detailed implementation and usage instructions for each data structure, please refer to the code documentation provided within the source files.
+
+---
+
+## 🤝 Contribution
+Contributions to this project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+This README provides an overview of your C++ data structure project, including its features, usage instructions, supported data structures, code documentation, contribution guidelines, and license information. Feel free to adjust it according to your project's specific requirements!
+
+---
+
+
+
+
