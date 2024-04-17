@@ -54,14 +54,14 @@ This project provides a generic menu-based interface for various data structures
 
 ---
 
-🛠️ Supported Data Structures
-Singly Linear Linked List
-Singly Circular Linked List
-Doubly Linear Linked List
-Doubly Circular Linked List
-Stack
-Queue
-Binary Search Tree
+## 🛠️ Supported Data Structures
+- Singly Linear Linked List
+- Singly Circular Linked List
+- Doubly Linear Linked List
+- Doubly Circular Linked List
+- Stack
+- Queue
+- Binary Search Tree
 
 ---
 
